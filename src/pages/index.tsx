@@ -45,7 +45,7 @@ const DESCRIPTION = translate({
   message: "算法社团的 ChatGPT 快捷指令",
 });
 const SUBMIT_URL =
-  "https://";
+  "https://www.zxhy.club";
 
 type UserState = {
   scrollTopPosition: number;
